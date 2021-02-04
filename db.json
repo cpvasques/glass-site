@@ -1,0 +1,25 @@
+{
+    "games": [
+      {
+        "id": 1,
+        "title": "Assassins Creed Valhalla",
+        "platform": "PS5, XBOX X/S, PC",
+        "img": "https://meups.com.br/wp-content/uploads/2020/05/Assassins-Creed-Valhalla-9-900x503.jpg",
+        "price": "59,90"
+      },
+      {
+        "id": 2,
+        "title": "Cyberpunk 2077",
+        "platform": "PS4, PS5, XONE, XBOX X/S, PC",
+        "img": "https://adrenaline.com.br/uploads/chamadas/cyberpunk-2077-superimagem1.jpg",
+        "price": "59,90"
+      },
+      {
+        "id": 3,
+        "title": "Call of Duty Black Ops",
+        "platform": "PS4, PS5, XONE, XBOX X/S, PC",
+        "img": "https://image-cdn.essentiallysports.com/wp-content/uploads/20200910181237/Call-of-Duty-Black-Ops-Cold-War-Key-Art-With-Soldiers-1-1.jpg",
+        "price": "59,90"
+      }
+    ]
+  }
